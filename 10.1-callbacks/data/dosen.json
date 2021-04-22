@@ -1,0 +1,23 @@
+[
+    {
+        "nama": "Gunawan Cipta",
+        "nrp": "043040023",
+        "email": "awok@gmail.sch.id",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 1
+    },
+    {
+        "nama": "Ilham Baskara",
+        "nrp": "133040123",
+        "email": "ilhambaskara@gmail.sch.id",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 2
+    },
+    {
+        "nama": "Kurniawan Basudara",
+        "nrp": "123456789",
+        "email": "kurniawanbaskara@gmail.sch.id",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 3
+    }
+]
